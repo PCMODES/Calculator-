@@ -1,0 +1,6 @@
+{
+  "name": "Smart Calculator",
+  "description": "All-in-One Smart Calculator & Utility Toolkit featuring scientific, financial, and daily life calculators with history and offline mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
